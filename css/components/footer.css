@@ -1,0 +1,23 @@
+li {
+  display: inline-block;
+  padding: 0px 20px;
+  list-style: none;
+  padding-left: 0px;
+  align-items: center;
+}
+
+.fa-brands {
+  font-size: 30px;
+}
+
+ul {
+  text-align: center;
+}
+
+a {
+  color: gray;
+}
+
+.footer {
+  margin-top: 50px;
+}

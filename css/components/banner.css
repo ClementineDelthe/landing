@@ -1,0 +1,15 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  height: 600px;
+  width: 100%;
+  color: white;
+  text-shadow: 0 10px 30px rgba(0,0,0,.4);
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
